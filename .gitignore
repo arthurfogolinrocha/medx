@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Env files with credentials — keep only in Vercel env vars
+.env
+.env.local
+.env.*.local
