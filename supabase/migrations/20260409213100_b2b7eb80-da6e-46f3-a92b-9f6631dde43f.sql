@@ -1,0 +1,1 @@
+ALTER TYPE public.status_faturamento ADD VALUE IF NOT EXISTS 'sem_cadastro';
